@@ -3,3 +3,6 @@
 
 ### Codeclimate bage:
 <a href="https://codeclimate.com/github/ArsenyKonkolovich/backend-project-lvl2/maintainability"><img src="https://api.codeclimate.com/v1/badges/e75c2d9a20ff99773583/maintainability" /></a>
+
+### Github actions:
+[![Node CI](https://github.com/ArsenyKonkolovich/backend-project-lvl2/actions/workflows/nodejs.yml/badge.svg)](https://github.com/ArsenyKonkolovich/backend-project-lvl2/actions/workflows/nodejs.yml)
