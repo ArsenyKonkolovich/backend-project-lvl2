@@ -6,3 +6,6 @@ link:		#Линк пакетов
 
 publish:	#Проверка публикации
 	npm publish --dry-run
+
+lint:		#Проверка линтером
+	npx eslint .
