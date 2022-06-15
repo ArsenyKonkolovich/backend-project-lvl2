@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import path from 'path';
 import { fileURLToPath } from 'url';
 import fs from 'fs';
