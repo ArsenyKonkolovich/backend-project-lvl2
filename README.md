@@ -6,3 +6,15 @@
 
 ### Github actions:
 [![Node CI](https://github.com/ArsenyKonkolovich/backend-project-lvl2/actions/workflows/nodejs.yml/badge.svg)](https://github.com/ArsenyKonkolovich/backend-project-lvl2/actions/workflows/nodejs.yml)
+
+### О проекте:
+Вычислитель отличий – программа, определяющая разницу между двумя структурами данных. Это популярная задача, для решения которой существует множество онлайн сервисов, например http://www.jsondiff.com/. Подобный механизм используется при выводе тестов или при автоматическом отслеживании изменении в конфигурационных файлах.
+
+Возможности утилиты:
+
+1) Поддержка разных входных форматов: yaml, json
+2) Генерация отчета в виде plain text, stylish и json
+
+
+### Сравнение полских файлов (JSON)
+https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat_
