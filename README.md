@@ -17,4 +17,4 @@
 
 
 ### Сравнение полских файлов (JSON)
-https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat_
+[![asciicast](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat.svg)](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat)
