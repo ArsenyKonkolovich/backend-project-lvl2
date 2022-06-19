@@ -23,5 +23,8 @@
 ### Сравнение плоских файлов (YAML)
 [![asciicast](https://asciinema.org/a/jPlllJCaA1Odz0z0ALwqyuqRE.svg)](https://asciinema.org/a/jPlllJCaA1Odz0z0ALwqyuqRE)
 
-### Форматер Stylish
+### Формат Stylish
 [![asciicast](https://asciinema.org/a/WyzC5mRXHC4CF4dJVQE0Mjd7i.svg)](https://asciinema.org/a/WyzC5mRXHC4CF4dJVQE0Mjd7i)
+
+### Формат Plain 
+[![asciicast](https://asciinema.org/a/u9fyU8nSscENBYBJHj7cyj2d3.svg)](https://asciinema.org/a/u9fyU8nSscENBYBJHj7cyj2d3)

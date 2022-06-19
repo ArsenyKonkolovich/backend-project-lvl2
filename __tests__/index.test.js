@@ -25,6 +25,13 @@ test('check yml and yaml stylish format', () => {
   expect(actual).toEqual(expected);
 });
 
+test('check plain format', () => {
+  const sourceData = readFile('expected-result-plain.txt');
+  const expected = sourceData.trim();
+  const actual = genDiff(getFixturePath('file1.json'), getFixturePath('file2.json'), 'plain');
+  expect(actual).toEqual(expected);
+});
+
 test('unkown format', () => {
   const filepath1 = getFixturePath('file1.json');
   const filepath2 = getFixturePath('file2.json');
