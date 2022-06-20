@@ -17,6 +17,9 @@
 2) Генерация отчета в виде plain text, stylish и json
 
 
+## Форматы
+Утилита может выводить отличия в разных форматах.
+
 ### Сравнение полских файлов (JSON)
 [![asciicast](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat.svg)](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat)
 
@@ -28,3 +31,6 @@
 
 ### Формат Plain 
 [![asciicast](https://asciinema.org/a/u9fyU8nSscENBYBJHj7cyj2d3.svg)](https://asciinema.org/a/u9fyU8nSscENBYBJHj7cyj2d3)
+
+### Формат JSON 
+[![asciicast](https://asciinema.org/a/rGXq9YaFoCfdQbkx7Eew40vgH.svg)](https://asciinema.org/a/rGXq9YaFoCfdQbkx7Eew40vgH)
