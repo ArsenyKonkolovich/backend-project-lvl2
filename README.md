@@ -17,14 +17,14 @@
 2) Генерация отчета в виде plain text, stylish и json
 
 
-## Форматы
-Утилита может выводить отличия в разных форматах.
-
 ### Сравнение полских файлов (JSON)
 [![asciicast](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat.svg)](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat)
 
 ### Сравнение плоских файлов (YAML)
 [![asciicast](https://asciinema.org/a/jPlllJCaA1Odz0z0ALwqyuqRE.svg)](https://asciinema.org/a/jPlllJCaA1Odz0z0ALwqyuqRE)
+
+## Форматы
+Утилита может выводить отличия в разных форматах.
 
 ### Формат Stylish
 [![asciicast](https://asciinema.org/a/WyzC5mRXHC4CF4dJVQE0Mjd7i.svg)](https://asciinema.org/a/WyzC5mRXHC4CF4dJVQE0Mjd7i)
