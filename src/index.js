@@ -7,6 +7,9 @@ import formatters from './formatters/index.js';
 const getFileData = (filepath) => {
   const fileData = readFile(filepath);
   const fileFormat = path.extname(filepath);
+  if (fileFormat[0] === '.') {
+    fileFormat.slice(1);
+  }
   const parsedData = parsers(fileData, fileFormat);
 
   return parsedData;
