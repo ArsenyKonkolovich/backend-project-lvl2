@@ -1,6 +1,5 @@
 import stylish from './stylish.js';
 import plain from './plain.js';
-import json from './json.js';
 
 const formatters = (difference, formatName) => {
   switch (formatName) {
@@ -9,7 +8,7 @@ const formatters = (difference, formatName) => {
     case 'plain':
       return plain(difference);
     case 'json':
-      return json(difference);
+      return JSON.stringify(difference);
     default:
       throw new Error(`This format is not supported: '.${formatName}'. Please read the documentation and use the available formats`);
   }

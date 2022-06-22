@@ -6,10 +6,10 @@ import formatters from './formatters/index.js';
 
 const getFileData = (filepath) => {
   const fileData = readFile(filepath);
-  const getFileFormat = path.extname(filepath);
-  const parse = parsers(fileData, getFileFormat);
+  const fileFormat = path.extname(filepath);
+  const parsedData = parsers(fileData, fileFormat);
 
-  return parse;
+  return parsedData;
 };
 
 const genDiff = (filepath1, filepath2, formatName = 'stylish') => {
