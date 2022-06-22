@@ -16,6 +16,12 @@
 1) Поддержка разных входных форматов: yaml, json
 2) Генерация отчета в виде plain text, stylish и json
 
+### Установка
+Для установки утилиты необходимо ввести склонировать репозиторий и выполнить команду установки пакетов.
+```bash
+$make install
+```
+
 
 ### Сравнение полских файлов (JSON)
 [![asciicast](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat.svg)](https://asciinema.org/a/Rgq2KSC5CUUv2IwJiVy1QRIat)
